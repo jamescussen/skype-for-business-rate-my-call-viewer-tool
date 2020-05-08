@@ -57,23 +57,15 @@ The Skype for Business Rate My Call Viewer Tool is a Powershell based GUI interf
 
   *  Get Records processing speed was increased by limiting records by date range in SQL query.
 
-
  
 
 
 **1.05 Update (16/3/2018)**
 
-
-
-
-
   *  Total Rows Counter added at the bottom 
   *  'Top 10 One Star Users' graph added. This can be used so you can follow up with these users about their bad experiences.
 
   *  'Top 10 Zero Star Users (Lync 2013 Client)' graph added. This can be used to follow up on Lync 2013 client users that are not responding the Rate My Call dialog.
-
-
-
 
 
  
@@ -99,7 +91,7 @@ The Skype for Business Rate My Call Viewer Tool is a Powershell based GUI interf
  
 
 
-**For full information on this tool see the following link: [http://www.myskypelab.com/2017/01/skype-for-business-rate-my-call-viewer.html](http://www.myskypelab.com/2017/01/skype-for-business-rate-my-call-viewer.html)**
+**For full information on this tool see the following link: [http://www.myskypelab.com/2017/01/skype-for-business-rate-my-call-viewer.html](http://www.myteamslab.com/2017/01/skype-for-business-rate-my-call-viewer.html)**
 
 
  
