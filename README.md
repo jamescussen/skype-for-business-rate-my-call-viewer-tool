@@ -91,7 +91,7 @@ The Skype for Business Rate My Call Viewer Tool is a Powershell based GUI interf
  
 
 
-**For full information on this tool see the following link: [http://www.myskypelab.com/2017/01/skype-for-business-rate-my-call-viewer.html](http://www.myteamslab.com/2017/01/skype-for-business-rate-my-call-viewer.html)**
+**For full information on this tool see the following link: [http://www.myteamslab.com/2017/01/skype-for-business-rate-my-call-viewer.html](http://www.myteamslab.com/2017/01/skype-for-business-rate-my-call-viewer.html)**
 
 
  
